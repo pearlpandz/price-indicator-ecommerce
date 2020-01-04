@@ -8,6 +8,6 @@ headers = { 'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit
 from_address = 'pearlpandzz@gmail.com'
 password = 'muthu.pandi1'
 to_address = 'themeddesigns@gmail.com'
-subject = 'price fell down!'
+subject = 'price fell down for your product!'
 successMsg = 'Hey Email Sent'
 expected_price = 1800
